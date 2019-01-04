@@ -16,4 +16,4 @@
 
     return 0;
     }
-    ![img](https://raw.githubusercontent.com/BambangPriam/Menghitung-Jarak-Tempuh/master/Menghitung%20jarak%20tempuh.png)
+   ![img](https://raw.githubusercontent.com/BambangPriam/Menghitung-Jarak-Tempuh/master/Menghitung%20jarak%20tempuh.png)
